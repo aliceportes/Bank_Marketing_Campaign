@@ -12,7 +12,7 @@ Using a mix of exploratory data analysis (EDA) and machine learning, I explored 
 
 - `bank.csv`: The dataset used in this project. [Bank Marketing Dataset on Kaggle](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)
 - `bank_marketing_analysis.ipynb`: Jupyter Notebook containing the full analysis, visualizations, and model training.
-- `visuals/`: (Optional) Saved figures from the notebook for easier reference or presentations.
+- `visuals/`: Saved figures from the notebook for easier reference or presentations.
 
 ---
 
@@ -57,6 +57,7 @@ These insights can help shape future marketing efforts to be more targeted and c
 ## Conclusion
 
 By combining exploratory data analysis with machine learning, this project uncovered meaningful patterns in how clients respond to marketing campaigns. 
+
 The insights from this project help marketing teams decide who to target, when to reach out, and how frequently. It reinforces the importance of data-driven strategies in running more effective and engaging campaigns.
 
 Thank you for checkig out my project!
