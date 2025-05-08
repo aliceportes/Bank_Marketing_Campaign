@@ -12,7 +12,7 @@ Using a mix of exploratory data analysis (EDA) and machine learning, I explored 
 
 - `bank.csv`: The dataset used in this project. [Bank Marketing Dataset on Kaggle](https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset)
 - `bank_marketing_analysis.ipynb`: Jupyter Notebook containing the full analysis, visualizations, and model training.
-- `visuals/`: Saved figures from the notebook for easier reference or presentations.
+- `visuals`: Saved figures from the notebook for easier reference or presentations.
 
 ---
 
