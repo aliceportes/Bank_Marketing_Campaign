@@ -57,10 +57,7 @@ These insights can help shape future marketing efforts to be more targeted and c
 ## Conclusion
 
 By combining exploratory data analysis with machine learning, this project uncovered meaningful patterns in how clients respond to marketing campaigns. 
-
 The insights from this project help marketing teams decide who to target, when to reach out, and how frequently. It reinforces the importance of data-driven strategies in running more effective and engaging campaigns.
-
----
 
 Thank you for checkig out my project!
 
