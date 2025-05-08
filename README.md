@@ -54,6 +54,22 @@ These insights can help shape future marketing efforts to be more targeted and c
 
 ---
 
+## Key Insights
+
+After analyzing client data, campaign results, and training predictive models, several key patterns stood out:
+
+- Clients with **higher account balances** were more likely to subscribe to a term deposit.
+  
+  ![Deposit Success Rate by Balance](visuals/deposit_success_rate_by_balance.png)
+
+- Campaigns that contacted clients **fewer times** saw higher success rates. Over-contacting often led to reduced conversions.
+
+  ![Deposit Success Rate by Number of Contacts](visuals/deposit_success_rate_by_contacts.png)
+
+- **Younger (18–25)** and **older (65+)** clients had higher deposit subscription rates than middle-aged groups.
+
+  ![Deposit by Age Group](visuals/deposit_by_age_group.png)
+
 ## Conclusion
 
 By combining exploratory data analysis with machine learning, this project uncovered meaningful patterns in how clients respond to marketing campaigns. 
