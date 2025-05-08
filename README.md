@@ -44,8 +44,6 @@ Using a mix of exploratory data analysis (EDA) and machine learning, I explored 
 ## Key Insights
 After analyzing client data and campaign results, and training predictive models several patterns stood out:
 
-![deposit_success_rate_by_balance_group](visuals/deposit_success_rate_by_balance_group.png)
-
 - **Account balance** was the strongest indicator of whether a client would subscribe. Higher balances correlated with a higher success rate.
 - **Age and job type** showed distinct behaviors—retired clients and students had higher subscription rates, while blue-collar clients were less likely to say yes.
 - **Clients without loans** (housing or personal) were more inclined to subscribe, suggesting that financial flexibility influences decision-making.
